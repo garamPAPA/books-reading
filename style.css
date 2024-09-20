@@ -113,7 +113,7 @@
 }
 
 .background {
-    background: rgba(0, 0, 0, 0.7)url('img/background.jpg');
+    background: rgba(0, 0, 0, 0.7)url('background.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
@@ -223,7 +223,7 @@
     border-radius: 5px;
     border: 2px solid white;
     background-color: rgb(22, 183, 195);
-    background-image: url(img/image.png);
+    background-image: url(image.png);
     background-size: cover;
 }
 .box1:hover{
@@ -238,7 +238,7 @@
     border-radius: 5px;
     border: 2px solid white;
     background-color: rgb(22, 183, 195);
-    background-image: url(img/durga-m.jpg);
+    background-image: url(durga-m.jpg);
     background-size: cover;
 }
 .box2:hover{
@@ -253,7 +253,7 @@
     border-radius: 5px;
     border: 2px solid white;
     background-color: rgb(22, 183, 195);
-    background-image: url(img/Saraswati-m.jpg);
+    background-image: url(Saraswati-m.jpg);
     background-size: cover;
 }
 .box3:hover{
@@ -268,7 +268,7 @@
     border-radius: 5px;
     border: 2px solid white;
     background-color: rgb(22, 183, 195);
-    background-image: url(img/Shiva.webp);
+    background-image: url(Shiva.webp);
     background-size: cover;
 }
 .box4:hover{
@@ -283,7 +283,7 @@
     border-radius: 5px;
     border: 2px solid white;
     background-color: rgb(22, 183, 195);
-    background-image: url(img/hanumaan.jpg);
+    background-image: url(hanumaan.jpg);
     background-size: cover;
 }
 .box5:hover{
